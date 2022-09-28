@@ -55,7 +55,7 @@ git clone https://github.com/VaneCode/metrics-webapp.git
 
 ### Usage
 
--You c
+-Once you have your repository cloned on your machine, feel free to modify it as needed.
 
 ## Authors
 
