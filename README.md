@@ -1,13 +1,8 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Microverse-blueviolet) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # Project Name
 
 > Description the project.
-
 
 ## Built With
 
@@ -51,7 +46,7 @@ git clone https://github.com/VaneCode/metrics-webapp.git
 
 - Open the [Repository Link](https://github.com/VaneCode/metrics-webapp) of this project in GitHub.
 
-- Once the files are on your machine, open metrics-webapp folder in [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation & Set Up
+- Once the files are on your machine, open metrics-webapp folder in [Visual Studio Code](https://code.visualstudio.com/).
 
 ### Usage
 
